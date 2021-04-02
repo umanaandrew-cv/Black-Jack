@@ -1,0 +1,4 @@
+C:\Users\Andrew\Desktop\C++ class\Andrew_Umana_Module15\Andrew\Debug\Andrew.exe
+C:\Users\Andrew\Desktop\C++ class\Andrew_Umana_Module15\Andrew\Debug\Andrew.pdb
+C:\Users\Andrew\Desktop\C++ class\Andrew_Umana_Module16\Andrew_Umana_Project 16-2\Debug\Andrew.exe
+C:\Users\Andrew\Desktop\C++ class\Andrew_Umana_Module16\Andrew_Umana_Project 16-2\Debug\Andrew.pdb

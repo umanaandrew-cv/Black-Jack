@@ -1,0 +1,9 @@
+﻿  Andrew.cpp
+C:\Users\Andrew\Desktop\C++ class\Andrew_Umana_Module15\Andrew\Andrew.cpp(205,2): warning C4060: switch statement contains no 'case' or 'default' labels
+C:\Users\Andrew\Desktop\C++ class\Andrew_Umana_Module15\Andrew\Andrew.cpp(222,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Andrew\Desktop\C++ class\Andrew_Umana_Module15\Andrew\Andrew.cpp(270,16): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Andrew\Desktop\C++ class\Andrew_Umana_Module15\Andrew\Andrew.cpp(292,16): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Andrew\Desktop\C++ class\Andrew_Umana_Module15\Andrew\Andrew.cpp(316,17): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Andrew\Desktop\C++ class\Andrew_Umana_Module15\Andrew\Andrew.cpp(371,18): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Andrew\Desktop\C++ class\Andrew_Umana_Module15\Andrew\Andrew.cpp(399,18): warning C4553: '==': result of expression not used; did you intend '='?
+  Andrew.vcxproj -> C:\Users\Andrew\Desktop\C++ class\Andrew_Umana_Module15\Andrew\Debug\Andrew.exe
